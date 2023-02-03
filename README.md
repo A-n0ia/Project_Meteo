@@ -47,7 +47,6 @@
 	AUTRES :
 
 	-help : permet l'affichage de l'aide
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 La compilation du programme c se fera automatiquement grâce au Makefile.
 Si celui ne marche pas, merci de se reporter sur les fichiers du dossier 'old', utilisant une compilation classique avec gcc (toujours aucune action particulière requise)
